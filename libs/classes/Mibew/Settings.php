@@ -68,8 +68,8 @@ class Settings
         // Set default values
         $this->settings = array(
             'dbversion' => 0,
-            'title' => 'Your Company',
-            'hosturl' => 'http://mibew.org',
+            'title' => 'Boveda Labs',
+            'hosturl' => 'http://bovedalabs.com',
             'logo' => '',
             'usernamepattern' => '{name}',
             'chat_style' => 'default',
