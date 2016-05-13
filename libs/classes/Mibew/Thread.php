@@ -567,7 +567,7 @@ class Thread
                 if ($this->state == self::STATE_CHATTING) {
                     // Send message to user
                     $message_to_post = getlocal(
-                        'Your operator has connection issues. We have moved you to a priorty position in the queue. Sorry for keeping you waiting.',
+                        'Your operator has connection issues. We have moved you to a priority position in the queue. Sorry for keeping you waiting.',
                         null,
                         $this->locale,
                         true

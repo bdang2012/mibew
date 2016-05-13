@@ -115,7 +115,7 @@ class RedirectController extends AbstractController
 
             if ($next_group) {
                 $page['message'] = getlocal(
-                    'The visitor has been placed in a priorty queue of the group {0}.',
+                    'The visitor has been placed in a priority queue of the group {0}.',
                     array(get_group_name($next_group))
                 );
                 if (!$this->redirectToGroup($thread, (int)$next_id)) {
@@ -134,7 +134,7 @@ class RedirectController extends AbstractController
 
             if ($next_operator) {
                 $page['message'] = getlocal(
-                    'The visitor has been placed in the priorty queue of the operator {0}.',
+                    'The visitor has been placed in the priority queue of the operator {0}.',
                     array(get_operator_name($next_operator))
                 );
                 if (!$this->redirectToOperator($thread, $next_id)) {
