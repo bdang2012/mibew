@@ -2,3 +2,4 @@
 configs/config.yml
 cache/
 files/
+.DS_Store
