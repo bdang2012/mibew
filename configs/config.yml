@@ -88,5 +88,5 @@ timezone: ""
 
 
 plugins:
-        "AARInnovations:TrayNotification": # Plugin's configurations are described below
+        "AARInnovations:TrayNotification":
             new_thread: true
