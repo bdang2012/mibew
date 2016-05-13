@@ -92,3 +92,5 @@ plugins:
             new_thread: true
         "Mibew:Emoji":
                 ignore_emoticons: false
+        "Mibew:GoogleMaps":
+                api_key: "9edc3289cf0c2d467c4de1bf7d9d96b2f90bf4f9"
