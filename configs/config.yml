@@ -94,3 +94,4 @@ plugins:
                 ignore_emoticons: false
         "Mibew:GoogleMaps":
                 api_key: "AIzaSyBE-f22QtWLYgvD8InEWgMd2zxg3Yzied0"
+        "Mibew:GeoIp":
