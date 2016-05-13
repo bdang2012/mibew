@@ -90,5 +90,5 @@ timezone: ""
 plugins:
         "AARInnovations:TrayNotification":
             new_thread: true
-        "Mibew2:Emoji":
+        "Mibew:Emoji":
                 ignore_emoticons: false
